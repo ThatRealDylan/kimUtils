@@ -1,1 +1,1 @@
-{\n   "{account}": {},\n    "email": "anacarazo2601@gmail.com",\n    "password": "tahoepassword5",\n    "admin": "true",\n    has-game-data": "false",\n    crystalseekersavedata": "","\n    crystalseekersavedata": ""   \n}
+https://github.com/ThatRealDylan/kimUtils/tree/main/accounts
